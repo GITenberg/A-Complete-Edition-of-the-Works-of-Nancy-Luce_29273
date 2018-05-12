@@ -1,0 +1,30 @@
+_repo: A-Complete-Edition-of-the-Works-of-Nancy-Luce_29273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luce, Nancy
+    birthdate: 1814
+    deathdate: 1890
+    gutenberg_agent_id: '33807'
+    url: http://www.gutenberg.org/2009/agents/33807
+description: ''
+gutenberg_issued: '2009-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poultry -- Diseases'
+- !lcsh 'American poetry -- 19th century'
+tableOfContents: 'God''s words -- Prayer -- Sickness -- Poor little hearts -- Milk
+  -- No comfort -- Prayers -- Poor little heart -- Our Saviour''s golden rule -- Hen''s
+  names -- Hens : their diseases and cure -- Prayers.'
+title: A Complete Edition of the Works of Nancy Luce
+url: http://www.gutenberg.org/ebooks/29273
